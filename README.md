@@ -2,8 +2,6 @@
 
 **FastHand** is a sleek and elegant poker game built using **SwiftUI**, designed for a smooth single-player experience against intelligent bots. The game is feature-rich but minimal in style — perfect for casual players and poker enthusiasts alike.
 
----
-
 ## 🎮 Game Features
 
 - 🤖 **Play Against Smart Bots**  
@@ -28,13 +26,11 @@
 - 🔄 **Probabilistic Bot Behavior**  
   Bots use different probability levels to determine betting aggression — more human-like and less predictable.
 
----
 
 ## 🔒 Save & Progress
 
 Your coin balance and preferences are stored locally using `UserDefaults`. Future versions may include iCloud sync or Game Center integration.
 
----
 
 ## 🚧 Future Plans
 
